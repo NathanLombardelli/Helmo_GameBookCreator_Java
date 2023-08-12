@@ -2,7 +2,7 @@
 
 a Java application for create a Game Book made when I was a student.
 </br>
-work with the viewer : https://github.com/NathanLombardelli/Helmo_GameBookViewer_CSharp
+work with the viewer : https://github.com/NathanLombardelli/Helmo_GameBookViewer_CSharp_WPF
 
 </br>
 </br>
