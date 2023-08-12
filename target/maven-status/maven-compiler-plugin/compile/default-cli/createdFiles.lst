@@ -1,0 +1,9 @@
+View\ViewController.class
+Domain\Choix.class
+Files\Export.class
+Files\Import.class
+Model\PresentationModel.class
+Verification\Verification.class
+View\View.class
+Domain\Book.class
+Domain\Paragraph.class

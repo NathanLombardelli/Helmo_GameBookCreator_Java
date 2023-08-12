@@ -1,0 +1,16 @@
+.background{
+    -fx-background-color: #203246;
+}
+
+.button{
+    -fx-text-fill: #203246;
+    -fx-background-color: lightslategrey;
+}
+
+.button:hover{
+    -fx-background-color: cornflowerblue;
+}
+
+.Line{
+    -fx-color-label-visible:  #203246;
+}
